@@ -1,0 +1,6 @@
+AnkiTools
+bs4
+numpy
+pandas
+scipy
+selenium
